@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 經史正音切韻指南
-#+DATE: 2018-03-30 13:56:55.435675
+#+DATE: 2018-03-30 14:15:04.849773
 #+PROPERTY: ID KR1j0067
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
